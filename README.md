@@ -4,6 +4,7 @@
 Email Me 👉 ✉️ **shakeru449@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** NextJs
+- - 👯 **I’m a student of:** Programming Hero
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1AmyyuFCUB/?mibextid=wwXIfr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakeru449@gmail.com) 
